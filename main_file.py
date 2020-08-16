@@ -1,9 +1,9 @@
 """usage
 --in:
 myList=["hello","world","from","python"]
-enum_letters(myList,"A")
+enum_letters(myList,"b")
 --out:
-[('A', 'hello'), ('B', 'world'), ('C', 'from'), ('D', 'python')]
+[('b', 'hello'), ('c', 'world'), ('d', 'from'), ('e', 'python')]
 __________________________________________________________________
 
 enum_letters(myList,"N")
