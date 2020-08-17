@@ -1,2 +1,2 @@
-# string_enumerate
-enumerate by alphabet list lower case or uppercase
+# common python methods
+methods to use everday in coding
